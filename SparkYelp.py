@@ -8,8 +8,6 @@ Original file is located at
 
 # High Perfromance Computing and Big Data - Spark Task (50%)
 
-### Dylan Pace - 16026660
-
 ## Introduction
 
 Apache Spark is a cluster-computing framework used for the purposes of dealing with large sets of data. The data being explored throughout this task is the Yelp challenge dataset, which is split into multiple JSON files. The goal would be to investigate these files in order to answer relevant questions and then carry on this exploration to learn more about the data. Some of these datasets include, business information, reviews and user profiles. Take, for example, the business file. It would have data relating to the name of the business, the city in which it may be found and the rating, all save in a JSON object as key/value pairs.
